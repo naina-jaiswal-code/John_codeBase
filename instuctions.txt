@@ -1,0 +1,9 @@
+Objective:
+ To test delete file to repo using git commands that involves cloning and pushing files to the remote repository using the command line
+
+Description:
+Mesut is a sagacious student. His professor wants him to college portal software system for tracking the activities and events that are being held in the college. Help Mesut to complete this tracker.
+
+Exercise:
+Take screenshots of all the steps given below and name them with its respective S.No (eg: 1.png, 2.png, etc). 
+Then add all screenshots to a single folder, compress and upload it.       
